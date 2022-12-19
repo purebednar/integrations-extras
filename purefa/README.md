@@ -128,7 +128,7 @@ For support or feature requests, contact Pure Storage through the following meth
 * Email: pure-observability@purestorage.com
 * Slack: [Pure Storage Code// Observability Channel][11].
 
-[1]: https://github.com/PureStorage-OpenConnect/pure-exporter
+[1]: https://github.com/PureStorage-OpenConnect/pure-fa-openmetrics-exporter
 [2]: https://app.datadoghq.com/account/settings#agent
 [3]: https://www.purestorage.com/products.html
 [4]: https://github.com/datadog/integrations-extras/blob/master/purefa/datadog_checks/purefa/data/conf.yaml.example
